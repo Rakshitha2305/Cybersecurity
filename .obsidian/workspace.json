@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "0f22c0eec1711456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hi"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +207,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ff3c4a971609d6d",
+  "active": "0f22c0eec1711456",
   "lastOpenFiles": [
+    "hi.md",
     "rakshhhh.md"
   ]
 }
