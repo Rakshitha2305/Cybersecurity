@@ -254,8 +254,8 @@ Firewall rule removed
 ## Evidence
 
 ### Brute-Force Detection
+![[Pasted image 20260917223010.png]]
 
-![Wazuh brute-force alert](https://chatgpt.com/c/screenshots/brute-force-alert.png)
 
 ### Active Response Block
 ![[Pasted image 20260917221925.png]]
@@ -357,15 +357,3 @@ Firewall rule removed
     
 
 ---
-
-## Project Status
-
-**Completed**
-
-The project successfully demonstrates an end-to-end SOC workflow:
-
-```text
-Detect → Contain → Recover
-```
-
-Detection, automated firewall blocking, SSH connection verification and automatic recovery were tested successfully.
