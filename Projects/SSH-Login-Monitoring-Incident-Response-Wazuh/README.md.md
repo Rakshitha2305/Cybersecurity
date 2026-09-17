@@ -263,15 +263,15 @@ Firewall rule removed
 
 ### Firewall DROP Rule
 
-![Debian firewall DROP rule](https://chatgpt.com/c/screenshots/firewall-drop-rule.png)
+![[Pasted image 20260917221925.png]]
 
 ### Blocked SSH Connection
 
-![SSH connection timeout](https://chatgpt.com/c/screenshots/ssh-timeout.png)
+![[Pasted image 20260917221701.png]]
 
 ### Automatic Unblocking
 
-![Wazuh active response unblock](https://chatgpt.com/c/screenshots/active-response-unblocked.png)
+![[Pasted image 20260917221757.png]]
 
 ---
 
