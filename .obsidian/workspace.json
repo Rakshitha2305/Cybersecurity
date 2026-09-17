@@ -49,12 +49,14 @@
             "id": "49794f41a798647c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "wazuh-module-agents-001-general-1789661079(ssh).pdf"
+                "file": "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "wazuh-module-agents-001-general-1789661079(ssh)"
+              "icon": "lucide-file",
+              "title": "README.md"
             }
           }
         ],
@@ -236,7 +238,7 @@
   "active": "49794f41a798647c",
   "lastOpenFiles": [
     "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/Report.md",
-    "wazuh-module-agents-001-general-1789661079(ssh).pdf",
+    "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/Report.pdf",
     "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md.md",
     "hi.md",
     "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh",
