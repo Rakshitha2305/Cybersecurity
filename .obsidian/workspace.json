@@ -58,9 +58,19 @@
               "icon": "lucide-file",
               "title": "README.md"
             }
+          },
+          {
+            "id": "1d63054184047e87",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,11 +245,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49794f41a798647c",
+  "active": "1d63054184047e87",
   "lastOpenFiles": [
+    "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md.md",
     "Pasted image 20260917221701.png",
     "Pasted image 20260917221620.png",
-    "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md.md",
     "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/Report.pdf",
     "Pasted image 20260917223010.png",
     "Pasted image 20260917222758.png",
