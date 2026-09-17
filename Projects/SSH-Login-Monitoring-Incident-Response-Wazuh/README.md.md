@@ -258,19 +258,16 @@ Firewall rule removed
 ![Wazuh brute-force alert](https://chatgpt.com/c/screenshots/brute-force-alert.png)
 
 ### Active Response Block
-
-![Wazuh active response block](https://chatgpt.com/c/screenshots/active-response-blocked.png)
-
-### Firewall DROP Rule
-
 ![[Pasted image 20260917221925.png]]
 
-### Blocked SSH Connection
-
+### Firewall DROP Rule
 ![[Pasted image 20260917221701.png]]
 
-### Automatic Unblocking
 
+### Blocked SSH Connection
+![[Pasted image 20260917222758.png]]
+
+### Automatic Unblocking
 ![[Pasted image 20260917221757.png]]
 
 ---
