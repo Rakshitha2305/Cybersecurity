@@ -49,14 +49,12 @@
             "id": "49794f41a798647c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/Report.md",
-                "mode": "source",
-                "source": false
+                "file": "wazuh-module-agents-001-general-1789661079(ssh).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Report"
+              "icon": "lucide-file-text",
+              "title": "wazuh-module-agents-001-general-1789661079(ssh)"
             }
           }
         ],
@@ -237,9 +235,9 @@
   },
   "active": "49794f41a798647c",
   "lastOpenFiles": [
+    "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/Report.md",
     "wazuh-module-agents-001-general-1789661079(ssh).pdf",
     "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md.md",
-    "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/Report.md",
     "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/Untitled.canvas",
     "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/Report.pdf",
     "Pasted image 20260917221701.png",
@@ -248,7 +246,6 @@
     "Pasted image 20260917222758.png",
     "Pasted image 20260917221925.png",
     "Pasted image 20260917221757.png",
-    "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/Report.md",
     "hi.md",
     "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh",
     "Projects",
