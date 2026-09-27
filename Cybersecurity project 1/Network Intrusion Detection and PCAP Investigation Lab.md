@@ -450,59 +450,32 @@ This project demonstrates practical foundational skills relevant to **Blue Team 
 # 13. Project Evidence
 
 ### Screenshots
-
-```text
-03-suricata-interface-and-rules.png
-04-custom-suricata-rules.png
-05-suricata-rule-validation.png
-06-nmap-syn-scan.png
-07-suricata-syn-alert.png
-10-icmp-ping-test.png
-11-suricata-icmp-alert.png
-12-wireshark-icmp-analysis.png
-```
-
-Suricata configuration:-
+**Suricata configuration:-**
 ![[suricata configuration.png]]
 
-Rules Defined:
+**Rules Defined:**
 ![[rules defined.png]]
 
-ICMP Request on wireshark
+**ICMP PCAP analysis**
+ICMP request 
 ![[icmp request on wireshark.png]]
 
-ICMP Reply on wireshark
+ICMP Reply 
 ![[icmp reply on wireshark.png]]
 
 ICMP ping detected
 ![[icmp detected.png]]
 
 
-TCP 
+**TCP scan PCAP analysis**
+
 ![[tcp connect wireshark.png]]
-### PCAP Files
 
-```text
-nmap-scan.pcap
-icmp-test.pcap
-tcp-connect-scan.pcap
-udp-scan.pcap
-```
+![[tcp connect detected.png]]
 
-### Project Repository Structure
 
-```text
-Network-Intrusion-Detection-Lab/
-│
-├── README.md
-├── report/
-│   └── Network-Intrusion-Detection-PCAP-Investigation.pdf
-├── screenshots/
-├── rules/
-│   └── local.rules
-└── pcaps/
-    ├── nmap-scan.pcap
-    ├── icmp-test.pcap
-    ├── tcp-connect-scan.pcap
-    └── udp-scan.pcap
-```
+**UDP scan PCAP analysis**
+
+![[udp wireshark.png]]
+
+![[udp detected.png]]
