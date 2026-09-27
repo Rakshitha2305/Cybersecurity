@@ -462,8 +462,24 @@ This project demonstrates practical foundational skills relevant to **Blue Team 
 12-wireshark-icmp-analysis.png
 ```
 
+Suricata configuration:-
+![[suricata configuration.png]]
+
+Rules Defined:
+![[rules defined.png]]
+
+ICMP Request on wireshark
+![[icmp request on wireshark.png]]
+
+ICMP Reply on wireshark
+![[icmp reply on wireshark.png]]
+
+ICMP ping detected
+![[icmp detected.png]]
 
 
+TCP 
+![[tcp connect wireshark.png]]
 ### PCAP Files
 
 ```text
