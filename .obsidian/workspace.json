@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity project 1/Network Intrusion Detection and PCAP Investigation Lab.md",
+                "file": "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Intrusion Detection and PCAP Investigation Lab"
+              "title": "README.md"
             }
           }
         ]
@@ -198,6 +198,8 @@
   },
   "active": "1ff3c4a971609d6d",
   "lastOpenFiles": [
+    "Cybersecurity project 1/Network Intrusion Detection and PCAP Investigation Lab.md",
+    "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md.md",
     "udp detected.png",
     "udp wireshark.png",
     "tcp connect detected.png",
@@ -207,12 +209,9 @@
     "icmp request on wireshark.png",
     "rules defined.png",
     "suricata configuration.png",
-    "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md.md",
-    "Cybersecurity project 1/Network Intrusion Detection and PCAP Investigation Lab.md",
     "Cybersecurity project 1",
     "hi.md",
     "Pasted image 20260917221620.png",
-    "Pasted image 20260917221757.png",
     "wazuh-module-agents-001-general-1789661079(ssh).pdf",
     "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/Report.md",
     "Projects/SSH-Login-Monitoring-Incident-Response-Wazuh/Untitled.canvas",
