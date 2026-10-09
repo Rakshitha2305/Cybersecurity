@@ -320,6 +320,7 @@ Screenshot of the dashboard or experiment comparison showing the vulnerable and 
 
 **Caption:**  
 _Figure 3. Comparison of vulnerable and secure context-handling behaviour._
+![[Pasted image 20261009043106.png]]
 
 ---
 
