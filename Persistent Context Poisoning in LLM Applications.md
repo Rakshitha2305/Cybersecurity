@@ -270,7 +270,7 @@ Screenshot showing `detected = true`, `quarantined = true`, `memory_retrieved = 
 
 **Caption:**  
 _Figure 2. Secure-mode result showing detection and quarantine of the poisoned memory before model exposure._
-
+![[Pasted image 20261009044339.png]]
 ---
 
 ## 9. Vulnerable and Secure Comparison
