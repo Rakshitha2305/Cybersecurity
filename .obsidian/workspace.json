@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity project 3/Persistent Context Poisoning in LLM Applications.md",
+                "file": "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Persistent Context Poisoning in LLM Applications"
+              "title": "README"
             }
           }
         ],
@@ -211,8 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2201ad45023d3dc2",
+  "active": "0ee58219d9ebeae5",
   "lastOpenFiles": [
+    "Cybersecurity project 3/Persistent Context Poisoning in LLM Applications.md",
     "Pasted image 20261009045016.png",
     "Pasted image 20261009044828.png",
     "Pasted image 20261009044807.png",
@@ -220,15 +221,13 @@
     "Pasted image 20261009043303.png",
     "Pasted image 20261009043106.png",
     "Pasted image 20261009042218.png",
-    "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md.md",
-    "Cybersecurity project 3/Persistent Context Poisoning in LLM Applications.md",
+    "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md",
     "Untitled 1",
     "Cybersecurity project 3",
     "Cybersecurity project 1/Network Intrusion Detection and PCAP Investigation Lab.md",
     "udp detected.png",
     "udp wireshark.png",
     "tcp connect detected.png",
-    "tcp connect wireshark.png",
     "Cybersecurity project 1",
     "hi.md",
     "wazuh-module-agents-001-general-1789661079(ssh).pdf",
