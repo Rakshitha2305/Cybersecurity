@@ -169,7 +169,8 @@ This provided direct evidence that the stored memory had influenced the model's 
 Screenshot of the vulnerable-mode attack result showing that the memory was stored, retrieved, seen by the model, and that the behaviour changed.
 
 **Caption:**  
-_Figure 1. Result of the persistent context poisoning attack in vulnerable mode._
+_Figure 1. Result of the persistent context poisoning attack in vulnerable mode.
+![[Pasted image 20261009042218.png]]
 
 ---
 

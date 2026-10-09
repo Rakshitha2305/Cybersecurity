@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2b1830fbfa402657",
@@ -197,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +214,7 @@
   },
   "active": "0ee58219d9ebeae5",
   "lastOpenFiles": [
+    "Pasted image 20261009042218.png",
     "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md.md",
     "Persistent Context Poisoning in LLM Applications.md",
     "Untitled 1",
