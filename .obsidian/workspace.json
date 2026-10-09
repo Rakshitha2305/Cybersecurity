@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md",
+                "file": "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Report"
             }
           }
         ],
@@ -213,6 +213,7 @@
   },
   "active": "0ee58219d9ebeae5",
   "lastOpenFiles": [
+    "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md",
     "Cybersecurity project 3/Persistent Context Poisoning in LLM Applications.md",
     "Pasted image 20261009045016.png",
     "Pasted image 20261009044828.png",
@@ -221,7 +222,6 @@
     "Pasted image 20261009043303.png",
     "Pasted image 20261009043106.png",
     "Pasted image 20261009042218.png",
-    "Cybersecurity project 2/SSH-Login-Monitoring-Incident-Response-Wazuh/README.md",
     "Untitled 1",
     "Cybersecurity project 3",
     "Cybersecurity project 1/Network Intrusion Detection and PCAP Investigation Lab.md",
