@@ -429,6 +429,7 @@ Terminal screenshot showing the final automated test results.
 
 **Caption:**  
 _Figure 6. Automated test-suite results for the LLM security lab._
+![[Pasted image 20261009045016.png]]
 
 ---
 
