@@ -165,10 +165,6 @@ This provided direct evidence that the stored memory had influenced the model's 
 
 ### Screenshot — Vulnerable Experiment
 
-**Insert Screenshot 1 here:**  
-Screenshot of the vulnerable-mode attack result showing that the memory was stored, retrieved, seen by the model, and that the behaviour changed.
-
-**Caption:**  
 _Figure 1. Result of the persistent context poisoning attack in vulnerable mode.
 ![[Pasted image 20261009042218.png]]
 
@@ -265,10 +261,6 @@ The model therefore did not receive the poisoned memory and the test marker did 
 
 ### Screenshot — Secure Experiment
 
-**Insert Screenshot 2 here:**  
-Screenshot showing `detected = true`, `quarantined = true`, `memory_retrieved = false`, and `behavior_changed = false`.
-
-**Caption:**  
 _Figure 2. Secure-mode result showing detection and quarantine of the poisoned memory before model exposure._
 ![[Pasted image 20261009044339.png]]
 ---
@@ -315,10 +307,6 @@ This comparison demonstrates that simply storing information in an application's
 
 ### Screenshot — Comparison
 
-**Insert Screenshot 3 here:**  
-Screenshot of the dashboard or experiment comparison showing the vulnerable and secure results.
-
-**Caption:**  
 _Figure 3. Comparison of vulnerable and secure context-handling behaviour._
 ![[Pasted image 20261009043106.png]]
 
@@ -343,10 +331,6 @@ This was important because it demonstrated an actual change in model behaviour r
 
 ### Screenshot — LLM Evidence
 
-**Insert Screenshot 4 here:**  
-Screenshot showing the actual LLM response containing `POISONING_TEST_TRIGGERED`.
-
-**Caption:**  
 _Figure 4. Observable effect of the poisoned memory on the LLM response._
 ![[Pasted image 20261009043303.png]]
 
@@ -377,10 +361,6 @@ FastAPI's Swagger interface was also used during development and testing to insp
 
 ### Screenshot — API
 
-**Insert Screenshot 5 here:**  
-Screenshot of the FastAPI Swagger documentation showing the project's main endpoints.
-
-**Caption:**  
 _Figure 5. FastAPI interface used for testing the security-lab API._
 ![[Pasted image 20261009044828.png]]
 
@@ -424,10 +404,6 @@ In addition to automated testing, the main poisoning experiment was manually val
 
 ### Screenshot — Test Results
 
-**Insert Screenshot 6 here:**  
-Terminal screenshot showing the final automated test results.
-
-**Caption:**  
 _Figure 6. Automated test-suite results for the LLM security lab._
 ![[Pasted image 20261009045016.png]]
 
