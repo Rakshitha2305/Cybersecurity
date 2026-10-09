@@ -382,6 +382,7 @@ Screenshot of the FastAPI Swagger documentation showing the project's main endpo
 
 **Caption:**  
 _Figure 5. FastAPI interface used for testing the security-lab API._
+![[Pasted image 20261009044828.png]]
 
 ---
 
