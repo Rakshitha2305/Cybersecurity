@@ -348,6 +348,7 @@ Screenshot showing the actual LLM response containing `POISONING_TEST_TRIGGERED`
 
 **Caption:**  
 _Figure 4. Observable effect of the poisoned memory on the LLM response._
+![[Pasted image 20261009043303.png]]
 
 ---
 
